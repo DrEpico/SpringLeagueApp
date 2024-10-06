@@ -1,4 +1,4 @@
-# FIFA/EAFC24 LEAGUE APP
+# FIFA/EAFC24 Online Career Mode Web App
 
 ## Overview
 Developed a comprehensive sports management web application, allowing users to manage fixtures, track player performance, and oversee financial operations like transfers and budgets. Features include text recognition for seamless data entry from images and performance analysis. Built with Spring Boot, this self-hosted app is designed for scalability to support thousands of users.
